@@ -1,4 +1,4 @@
-2048 Game
- sandeep kumar Gupta
- shubham pandey
+2048 Game,
+ sandeep kumar Gupta, 
+ shubham pandey, 
 Subject Code -- INT213
